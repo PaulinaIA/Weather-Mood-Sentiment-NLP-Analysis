@@ -6,13 +6,13 @@
 ![NLTK](https://img.shields.io/badge/NLTK-3.6+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-purple.svg)
 
-## 📋 Descripción
+## Descripción
 
 Este proyecto implementa un sistema integral para analizar contenido sobre cambio climático en la plataforma Reddit. Mediante técnicas avanzadas de procesamiento de lenguaje natural (NLP), análisis de sentimiento, clustering semántico y modelado de tópicos, se examina cómo las comunidades digitales expresan percepciones, preocupaciones y conocimientos sobre la crisis climática.
 
 El sistema extrae datos de subreddits relevantes, procesa la información textual, identifica patrones temáticos y genera visualizaciones interpretables junto con un informe científico estructurado.
 
-## ✨ Características principales
+## Características principales
 
 - 🤖 **Extracción automatizada** de posts de múltiples subreddits relacionados con el clima
 - 📊 **Análisis multi-método de sentimiento** combinando VADER y modelos transformers
@@ -22,7 +22,7 @@ El sistema extrae datos de subreddits relevantes, procesa la información textua
 - 📈 **Visualizaciones interactivas** de resultados mediante Matplotlib, Seaborn y Plotly
 - 📑 **Generación automática** de informes científicos en formato HTML
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **PRAW**: Interacción con la API de Reddit
 - **PySpark**: Procesamiento distribuido de texto
@@ -33,7 +33,7 @@ El sistema extrae datos de subreddits relevantes, procesa la información textua
 - **scikit-learn**: Clustering y modelado de tópicos
 - **Matplotlib/Seaborn/Plotly**: Visualización de datos
 
-## 📊 Ejemplos de visualizaciones
+## Ejemplos de visualizaciones
 
 El proyecto genera diversas visualizaciones para analizar patrones en las conversaciones sobre cambio climático:
 
@@ -44,7 +44,7 @@ El proyecto genera diversas visualizaciones para analizar patrones en las conver
 - Entidades nombradas más frecuentes
 - Análisis temporal de volumen y sentimiento
 
-## 🚀 Instalación y uso
+## Instalación y uso
 
 ### Prerrequisitos
 
@@ -88,7 +88,7 @@ python reddit_climate_analysis.py --subreddits climatechange,environment --time_
 
 También puedes ejecutar este análisis en Google Colab. El notebook `Reddit_Climate_Analysis.ipynb` está adaptado para ese entorno, con optimizaciones para manejar las limitaciones de memoria y procesamiento.
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 reddit-climate-analysis/
@@ -113,7 +113,7 @@ reddit-climate-analysis/
     └── report_generator.py         # Generador de informes
 ```
 
-## 📊 Resultados e insights
+## Resultados e insights
 
 El análisis genera un informe científico completo (`climate_analysis_report.html`) que incluye:
 
@@ -124,7 +124,7 @@ El análisis genera un informe científico completo (`climate_analysis_report.ht
 - Evolución temporal del contenido
 - Conclusiones y limitaciones metodológicas
 
-## 🔍 Metodología
+## Metodología
 
 El proyecto sigue un flujo de trabajo estructurado:
 
@@ -137,13 +137,13 @@ El proyecto sigue un flujo de trabajo estructurado:
 7. **Visualización**: Generación de gráficos interpretativos
 8. **Reporte**: Compilación de hallazgos en un informe estructurado
 
-## 👩‍💻 Autora
+## Autora
 
 **Paulina Maria Peralta Escurra**  
 - Email: pauliperalta97@gmail.com
 - GitHub: [PaulinaIA](https://github.com/PaulinaIA)
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
 
