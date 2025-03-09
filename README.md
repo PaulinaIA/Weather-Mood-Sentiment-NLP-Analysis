@@ -1,4 +1,4 @@
-# 🌍 Análisis de Sentimientos y Tópicos sobre Cambio Climático en Reddit
+# 🌍 Procesamiento del Lenguaje Natural para el Análisis de Sentimientos y Tópicos sobre Cambios Medioambientales en Reddit
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![PySpark](https://img.shields.io/badge/PySpark-3.1+-orange.svg)
