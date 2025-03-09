@@ -1,4 +1,4 @@
-# 🌍 Procesamiento del lenguaje natural para el análisis de sentimientos y tópicos sobre cambios medioambientales de la plataforma Reddit
+# Procesamiento del lenguaje natural para el análisis de sentimientos y tópicos sobre cambios medioambientales de la plataforma Reddit
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![PySpark](https://img.shields.io/badge/PySpark-3.1+-orange.svg)
